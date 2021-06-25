@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on my Capstone, "CercaCup", a CRUD app with geolocation capabilities.
-### 🌱 I’m currently learning Javascript trhough learnjavascript.online 
+### 🌱 I’m currently learning advanced Javascript through learnjavascript.online 
 ### 👯 I’m looking to collaborate on getting my first webdev job!
 
 <!--
