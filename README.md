@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🔭 I’m currently working on my Capstone for Suncoast Developers Guild, "Cerca Cup", a CRUD app with geolocation capabilities.
+### 🔭 I’m currently improving on my Capstone for Suncoast Developers Guild, "Cerca Cup", a CRUD app with geolocation capabilities.
 ### 🌱 I’m currently learning intermediate/advanced Javascript. 
 ### 🤔 I’m looking for help with getting my first webdev job!
 
