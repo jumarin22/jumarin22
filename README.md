@@ -1,7 +1,6 @@
 ### Hi there 👋
-### 🔭 I’m currently improving on my Capstone for Suncoast Developers Guild, "Cerca Cup", a CRUD app with geolocation capabilities.
-### 🌱 I’m currently learning intermediate/advanced Javascript. 
-### 🤔 I’m looking for help with getting my first webdev job!
+### 🔭 I’m currently working on some JetBrains projects in Java.
+### 🌱 I’m currently learning some Kotlin with an Intro to Android Programming class at St Pete College. 
 
 <!--
 **jumarin22/jumarin22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
