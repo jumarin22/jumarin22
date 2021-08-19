@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ahoy there! ⚓
 ### 🔭 I’m currently working on some JetBrains projects in Java.
 ### 🌱 I’m currently learning some Kotlin through an Intro to Android Programming class at St Pete College. 
 
