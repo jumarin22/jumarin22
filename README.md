@@ -1,6 +1,6 @@
 ### Ahoy there! ⚓
 ### 🔭 I’m currently working on some JetBrains projects in Java.
-### 🌱 I’m currently learning some Kotlin through an Intro to Android Programming class at St Pete College. 
+### 🌱 I’m currently learning Kotlin through an Intro to Android Programming class at St Pete College. 
 
 <!--
 **jumarin22/jumarin22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
