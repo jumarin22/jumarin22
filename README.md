@@ -1,5 +1,5 @@
 ### Ahoy there! ⚓
-### 🔭 I’m currently working on some JetBrains projects in Java.
+### 🔭 I’m currently working on some projects in Java.
 
 <!--
 **jumarin22/jumarin22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
